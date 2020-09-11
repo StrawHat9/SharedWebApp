@@ -15,7 +15,7 @@ namespace SharedWebApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Nikhil's page.";
+            ViewBag.Message = "Nikhil's page updated!!!";
 
             return View();
         }
